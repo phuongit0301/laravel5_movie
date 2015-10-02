@@ -1,0 +1,30 @@
+{
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.8.8"
+  },
+  "dependencies": {
+    "laravel-elixir": "^2.0.0",
+    "bootstrap-sass": "^3.0.0"
+  },
+  "name": "laravel5_dev",
+  "description": "[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework) [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework) [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework) [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework) [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuongit0301/laravel5_dev.git"
+  },
+  "author": "phuongpt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuongit0301/laravel5_dev/issues"
+  },
+  "homepage": "https://github.com/phuongit0301/laravel5_dev#readme"
+}
